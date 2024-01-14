@@ -6,6 +6,8 @@ public class Manager_1
 	{
 		System.out.println("Testing");
 		System.out.println("QC Testing");
+		System.out.println("QC Testing");
+		System.out.println("QC Testing");
 		System.out.println("Database Testing");
 	}
 }
